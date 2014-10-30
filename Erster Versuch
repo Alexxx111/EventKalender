@@ -1,0 +1,42 @@
+<html>
+	
+	
+	
+	<head>
+		<title>TestSeite</title>
+		
+		<style type="text/css">
+			
+			#s1 {position: absolute; top: 20px; left:220px; width:800px; height:150px;background-color:#AEE5F2;border:1px solid #804000;}
+			#s2 {position: absolute; top: 200px; left:220px; width:350px; height:100px;background-color:#AEE5F2;border:1px solid #804000;}
+			#s3 {position: absolute; top: 350px; left:220px; width:350px; height:100px;background-color:#AEE5F2;border:1px solid #804000;}
+			#s4 {position: absolute; top: 200px; left:670px; width:350px; height:100px;background-color:#AEE5F2;border:1px solid #804000;}
+			#s5 {position: absolute; top: 200px; left:670px; width:350px; height:100px;background-color:#AEE5F2;border:1px solid #804000;}
+
+			
+			a.fill-div {
+				display: block;
+				height: 100%;
+				width: 100%;
+				text-decoration: none;
+		
+			}
+		
+		</style>
+		
+		
+		
+	</head>
+	<body>
+		
+	
+			
+				
+			</div>
+			
+			 <div id = "s1"><p align="center", style="font-size:200%">Der coolste EventKalender in Dresden </p> </div>
+			<a href="#" class="fill-div"><div id = "s2"><p align="center", style="font-size:100%"> Bildung </p> </div></a>
+			<div id = "s3"><p align="center", style="font-size:100%"> Sport </p> </div>
+			<div id = "s4"><p align="center", style="font-size:100%"> Kultur</p> </div>
+	</body>
+</html>
